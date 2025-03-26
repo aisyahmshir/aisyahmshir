@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi There 👋</h1>
 
 <!--
 **aisyahmshir/aisyahmshir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">A passionate software engineering student</h3>
+- 🔭 I'm interested in Machine Learning, Web Development, etc <br>
+- 🌱 I enjoy learning about new technologies.
